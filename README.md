@@ -86,4 +86,4 @@
 </p>
 
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjofiel&show_icons=true&locale=en&layout=compact" alt="rjofiel" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjofiel&show_icons=true&locale=es&layout=compact" alt="rjofiel" /></p>
