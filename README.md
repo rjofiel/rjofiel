@@ -4,8 +4,7 @@
 
 {
 
-- 👂 `Nombre`: **Rodolfo Jofiel**,
-- 🔭 `Puesto actual`: **Front-end Developer en Simplr | Life as a Service**
+- 👂 `Nombre`: **Jofiel**,
 - ⚡ `Edad`: **25 años**,
 - 🌱 `Actualmente aprendiendo`: **Java/Qwik**,
 - ❤️ `Me encanta`: **Anime & Teclados** ,
